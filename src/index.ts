@@ -9,7 +9,7 @@ import {
   createExplorerLink,
   createExplorerLinkForChain,
   getBlockExplorerLink,
-} from "./scan-link";
+} from "./explorer-link";
 import {
   createTokenTrackerLink,
   createCustomTokenTrackerLink,
